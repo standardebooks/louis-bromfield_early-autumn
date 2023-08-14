@@ -55,6 +55,10 @@ footer{
 /* end of letters */
 
 /* custom */
+q{
+	font-style: italic;
+}
+
 #dedication p{
 	font-variant: small-caps;
 }
