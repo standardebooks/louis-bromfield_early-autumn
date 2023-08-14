@@ -35,17 +35,18 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
 		<meta property="se:subject">Fiction</meta>
-        <meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
-        <meta property="collection-type" refines="#collection-1">series</meta>
-        <meta property="group-position" refines="#collection-1">9</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">9</meta>
+		<dc:description id="description">An “old money” family in Massachusetts faces a rapidly changing environment after World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Pentlands are a very conservative, “old money” family in a small town near Boston, who claim descendants going back to the Massachusetts Bay Colony. In the fall of an unspecified year in the 1920’s, their world is invaded by several “outsiders,” including Sybil, the patriarch’s grandaughter back from a Paris education, Sabine, a prodigal niece who has returned after being gone for twenty years, together with her daughter Thérèse, and O’Hare, an Irish Catholic politician who is at odds with the deeply ingrained Protestant background of the community.&lt;/p&gt;
+			&lt;p&gt;As the novel progresses, it becomes increasingly clear to Olivia, Sybil’s mother, that all is not well in the Pentlands’ world; beneath the apparent calm there are secrets bubbling to the surface that have been hidden for years. It also becomes clear that with the changes taking place in the world at large and in their world in particular, the future of the Pentland family could be in peril.&lt;/p&gt;
+			&lt;p&gt;Before &lt;a href="https://standardebooks.org/ebooks/louis-bromfield"&gt;Louis Bromfield&lt;/a&gt; became a well-known agriculturist, he was a writer of several successful novels, and this family study said to be based on his wife’s Puritan upbringing won him a Pulitzer.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20210130</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.166193</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Early_Autumn</meta>
