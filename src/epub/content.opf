@@ -67,8 +67,8 @@
 		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Online Distributed Proofreaders Canada</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
