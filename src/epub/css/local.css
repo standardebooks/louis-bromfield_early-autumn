@@ -70,8 +70,4 @@ q{
 #chapter-3 blockquote{
 	font-variant: small-caps;
 }
-
-#chapter-7 blockquote:nth-of-type(6) p{
-	text-indent: 0;
-}
 /* end of custom */
